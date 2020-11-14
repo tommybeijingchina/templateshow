@@ -1,0 +1,12 @@
+<template name="listforitem">
+
+  <view class="userinfo1">
+
+    <text class="number">{{num}}</text>
+    <text class="width300">{{name}}</text>
+    <text class="width150">{{sex}}</text>
+    <text class="number">{{age}}</text>
+
+  </view>
+
+</template>
