@@ -13,14 +13,14 @@ Page({
     },
 
     {num:2,
-    name:"Chongshan1",
+    name:"Chongshan",
     sex:"female",
     age:45
     },
     {num:3,
       name:"sebrinachong",
       sex:"female",
-      age:35
+      age:40
       }
 
 

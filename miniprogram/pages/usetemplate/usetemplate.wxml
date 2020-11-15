@@ -1,8 +1,9 @@
 
 <import src="../listforitem.wxml"/>
 
-<text class="temptitle">Use the template test</text>
+<text class="temptitle">页外模板样例，每行使用了同一模板</text>
 
 <block wx:for="{{itemtest}}">
-<template is="listforitem" data="{{...item}}"></template>
+<template is="listforitem" data="{{...item}}"/>
 </block>
+

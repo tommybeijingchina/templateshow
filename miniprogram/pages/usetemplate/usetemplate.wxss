@@ -3,5 +3,6 @@
 @import "../listforitem.wxss";
 
 .temptitle{
-  margin-bottom: 40rpx;
+  margin-bottom: 20rpx;
+  margin-left: 120rpx;
 }
